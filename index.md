@@ -1,6 +1,6 @@
 # Vincent Zeng's First CS193 Homework
 
-- one class a week
+- one class a week!
 
 - good lecterers
 
