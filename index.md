@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Not a lot of work
+- Useful lectures
 
 1. Numbered
 2. List
